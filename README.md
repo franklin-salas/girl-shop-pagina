@@ -5,4 +5,4 @@
 
   Pagina
 
-  ![preview img](/preview/pagina.png)
+  ![preview img](/preview/page.jpg)
